@@ -4,7 +4,7 @@ All of my Advent of Code solutions in any language.
 
 ## Languages
 
-[Crystal](./crystal/)
+[Crystal](./crystal/) - 2022
 
 ## Usage
 
